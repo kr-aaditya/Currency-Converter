@@ -16,6 +16,8 @@ The application allows users to enter an amount, select the source and target cu
 
 ⚡ Built with vanilla JavaScript — no frameworks required
 
+
+Live Demo : https://kr-aaditya.github.io/Currency-Converter/
 🛠️ Technologies Used
 HTML5 — Structure of the application
 
